@@ -7,7 +7,7 @@ var config = require('../config');
 var cors = require('./cors');
 var jwt = require('jsonwebtoken');
 const Dishes = require('../models/dishes');
-const { populate } = require('../models/dishes');
+
 
 var favRouter = express.Router();
 favRouter.use(bodyParser.json());

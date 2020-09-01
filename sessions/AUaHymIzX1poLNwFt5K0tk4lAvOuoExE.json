@@ -1,1 +1,11 @@
-{"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"user":"authenticated","__lastAccess":1596270662566}
+{
+    "AdminToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjJiYTFhYjIyMjdjYzI5Mzg1YjA5MGUiLCJpYXQiOjE1OTg5NjkyNzEsImV4cCI6MTk1ODk2OTI3MX0.-FomY33e4NdtlJbBoTUXIu93Yu4CAL0s4ioJjHJKSyE",
+    "userToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjRlNTVmNjE4ZjgwMDI5OTQ4YmJjMWQiLCJpYXQiOjE1OTg5NjkzNDksImV4cCI6MTk1ODk2OTM0OX0.IB3Vt1FcJ1_iBnFoyauqAVVLuZ3w88Zlf6p-hVYxNuE",
+    "name": "Uthappizza1",
+        "image": "images/uthappizza.png",
+        "category": "mains",
+        "label": "Hot",
+        "price": "4.99",
+        "featured": "true",
+        "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      }
